@@ -1,0 +1,915 @@
+region_name,competition_year,id,name,short_desc,long_desc,eligibility,video_url,created_at,updated_at,sponsors,entries
+New South Wales,2021,247,ACTIVATED Public Spaces,"What makes a public space vibrant, walkable, and encourages people to dwell longer at different times of the day or night, and throughout the year? 
+","### The Challenge:
+
+This problem statement seeks to find solutions that support our **‘ACTIVATED’** public spaces approach. We are interested in understanding what makes a public space vibrant, walkable, and what encourages people to dwell longer in a given space. Also, in understanding the volume and movement of people in different spaces, particularly using walking (inclusive of wheelchairs or other mobility aids) as their primary travel mode. What does this mean for design or programming public spaces at different times of the day and night, and throughout the year? 
+
+Broadly, activation can be described as, the level of human activity in public spaces including the number of people walking, the number of people spending time and the diversity of people present. Activation or liveliness in public spaces may, with appropriate pre-conditions, happen spontaneously and among people who may have little conscious regard for their physical surroundings. Conversely, other public spaces require invitations and enticements to attract a human dimension. How public spaces are programmed, designed, and managed, therefore, becomes of critical importance. 
+
+
+### Background:
+
+Quality green, open and public spaces are important to everyone. They are our free and publicly accessible parks, gardens and sports fields, walkable shady streets, libraries, museums and galleries, which form the heart of our communities. Our public spaces make life more welcoming and accessible. They delight and connect people. They support our health and well-being, environmental resilience and prosperous local economies. They’re at the heart of everyday life.
+
+Public spaces are all places **publicly owned or of public use, accessible and enjoyable by all for free**. They include our **open spaces, public facilities (e.g. libraries, galleries, museums) and streets**. The quality of public space is a combination of its **physical form**, the **activities** that occur in the place and the **meaning** people associate with the place. 
+
+The NSW Premier’s Priority Greener Public Spaces (the Priority) is to *increase the proportion of homes in urban areas within 10 minutes’ walk of quality green, open and public space by 10 percent by 2023*. To monitor the impact of the Priority we measure an increase in homes in urban areas that have improved access within 10 minutes’ walk (800m walking catchment) of a new or improved public space.  
+
+To achieve the Priority, we are taking a “more, better, activated” approach, along with emphasising the resilience of public space as playing a key role in the “road to recovery” from recent disasters and the global COVID-19 pandemic. 
+
+• MORE: identifying areas with lower access to public space, the Priority will target strategies that provide access to new quality public spaces in these areas
+• BETTER: identifying areas with high access to public space, the Priority will target strategies that improve quality of public spaces in these areas 
+• **ACTIVATED:** in all areas, the Priority will target strategies that increase activation 
+• ROAD TO RECOVERY: Since 2019 we have also focused our work on the importance of public spaces in the resilience of communities to disasters such as bushfires, floods and the global COVID-19 pandemic. 
+
+The Evaluation Tool for Public Space and Public Life, is the first resource in the new online Great Public Spaces Toolkit. It is a user-friendly resource that allows anyone to assess the quality of public spaces, its positive attributes, as well as areas for improvement. The NSW Public Spaces Charter is another key resource. The Charter, currently in draft form, can be used to guide planning, design, management and activation of public space. The Charter will be a resource for individuals, organisations and agencies responsible for public space.
+
+### Additional Information:
+
+For more information about the Priority, current grant programs, case studies, ideas and opportunities for different types of public spaces. 
+https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces
+
+**Department of Planning, Industry and Environment data:** 
+
+Our advice would be to think broadly and creatively about how DPIE’s data can be used. For these problem statements we don’t always have data that will provide the answers, and we use other forms of information, including reports and surveys when hard data is not available.
+
+•	[Public Spaces location GIS layers](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) on the ePlanning [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) – this dataset helps to understand the provision of public space in a given area. Click “Public Spaces” layers on in the legend on the Viewer to show the location of known open spaces and public facilities across NSW.
+•	[ePlanning Data Portal](https://www.planningportal.nsw.gov.au/opendata/) – a one stop shop for a whole range of open data relevant to public spaces, including NSW Urban Vegetation Cover; Principal Planning Layers such as land zoning; Natural Hazard layers; Green Infrastructure layers including: NSW Heat Vulnerability Index; NSW Urban Heat Island and more. These datasets can be viewed alongside the Public Spaces layers on the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) within the Portal.
+•	[Government Property Index](https://www.planningportal.nsw.gov.au/development-assessment/government-property-index?linkId=118681870) – is a new resource that means you can now search and view NSW Government-owned land and property online. The index is available spatially as a layer via the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address). Information on government owned Crown Land is also available as layers on the Viewer. 
+•	[Public Spaces Streets as Shared Spaces Engagement Report](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0006/348027/Public-Spaces-Streets-as-Shared-Spaces-Engagement-Report.pdf) – includes results of survey aimed to provide the NSW Government with insight into the changing uses of public spaces as a result of the COVID-19 pandemic.
+•	[Draft NSW Public Spaces Charter](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0007/347740/Draft-NSW-Public-Spaces-Charter.pdf) – developed to support the planning, design, management and activation of public spaces in NSW. It identifies ten principles for quality public space, developed through evidence-based research and discussions with public space experts and community members.
+•	[Great Public Spaces Toolkit](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit) – including the [Evaluation Tool for Public Space and Public Life](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#evaluation-tool-for-public-space-and-public-life) can be used by anyone wanting to better understand a public space’s strengths or areas for improvement. The [Great Public Spaces Guide](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#great-public-spaces-guide), introduces the meaning of place and the elements that contribute to creating a great public facility, open space or street.
+
+**Other Government agency datasets that may be of relevance:**
+
+The other advice we would provide is that, more, better and activated public space is a cross cutting issue for the NSW Government. We have found that we often utilise other agency’s open data sources when we are looking to understand need and value of public space. 
+
+•	Spatial Services [NSW Point of Interest (POI)](https://data.nsw.gov.au/data/dataset/nsw-points-of-interest-poi) web service provides the identification and location of a feature, service or activity that people may want to see, know about or visit.
+•	Office of Local Government [Time Series](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/) datasets, including data on Population per hectare of open space.
+•	NSW Health [HealthStats](http://www.healthstats.nsw.gov.au/Indicatorgroup/TopicIndicatorGroups), including on topics such as Physical Activity Levels.
+•	Transport for NSW [Open data portal](https://opendata.transport.nsw.gov.au/)
+•	NSW Bureau of Crime Statistics and Research [Crime Statistics](https://www.bocsar.nsw.gov.au/Pages/bocsar_crime_stats/bocsar_crime_stats.aspx) data.
+•	ABS 2016 [Census products](https://www.abs.gov.au/census/find-census-data/more-products), including Mesh block counts on population and dwellings, and Socio-Economic Indexes for Areas (SEIFA). 
+•	National Recovery and Resilience Agency disaster-related [datasets](https://data.gov.au/data/organization/nbra), including for the March 2021 floods and 2019-20 bushfires.
+•	Greater Sydney Commission [Greater Sydney Green Grid](https://www.greater.sydney/metropolis-of-three-cities/sustainability/city-its-landscape/green-grid-links-parks-open-spaces) – The Green Grid connects communities to the landscape. It is a long-term vision for a network of high quality green areas. 
+•	Greater Sydney Commission documents including the [Greater Sydney Region Plan](https://www.greater.sydney/metropolis-of-three-cities), [Women’s Safety Charter](https://www.greater.sydney/thought-leadership/womens-safety-charter)
+•	[Public Libraries in New South Wales Directory](https://www.sl.nsw.gov.au/public-library-services/about-public-library-services/find-public-library-nsw)
+
+**Presentation at the New South Wales Connections Event**
+
+•	[Conversation with Vanessa Gordon (Director of Place from the Department of Planning, Industry and Environment)](https://youtu.be/UpKmHWfcQNc?t=612)
+
+**Image credit:** Wagga Wagga Lost Lanes Festival 2021, Department of Planning, Industry and Environment
+","",https://www.youtube.com/embed/eiHm2RDIDeE,2021-08-19 01:00:58 +1000,2021-08-20 15:36:09 +1000,"[""NSW Department of Planning, Industry and Environment""]",17
+Tasmania,2021,282,Artificial Intelligence and Machine Learning for a Digital Twin,The City of Hobart is developing a Digital Twin that will contain high resolution photogrammetric data and allow integration with diverse datasets owned publicly or privately. We are keen to explore the use of Artificial Intelligence (AI) and Machine Learning within these datasets.,"The City of Hobart are keen to explore the use of AI and Machine Learning that involves any kind of innovative response to the representation of a city and its data; including Object Recognition, Image Classification, Semantic Segmentation and Instance Segmentation.
+
+Consider the following:
+
+• Smart analysis and representation of trees or other assets (based on photographic data and known geospatial locations)
+• Identifying buildings and creating their 3D envelope
+• Incorporating anonymised data from security camera footage (traffic counting, people counting, motion paths, hotspots etc.)
+• Any other relevant innovations
+
+### Additional Information:
+
+**Additional links:**
+
+• https://www.hobartcity.com.au/Home
+• https://www.hobartcity.com.au/City-services/Geographic-information-data
+• https://au.opencitiesplanner.bentley.com/cityofhobart/digitaltwin (see note below)
+
+**Other relevant documents:**
+
+• [Where Deep Learning Meets GIS](https://www.esri.com/about/newsroom/arcwatch/where-deep-learning-meets-gis/)
+• [Integrated Deep Learning with ArcGIS using Python](https://www.techgig.com/webinar/Integrating-Deep-Learning-with-ArcGIS-using-Python-1464)
+• [Connected Hobart: Smart City Action Plan](https://www.hobartcity.com.au/files/assets/public/strategies-and-plans/hcc4578-smart-cities-action-plan-a3-single_110919.pdf)
+•  Hobart 2010 Public Spaces and Public Life - [01 Final Report - Introduction](https://www.hobartcity.com.au/files/assets/public/strategies-and-plans/gehl-report/01_final_report_-_introduction.pdf)
+•  Hobart 2010 Public Spaces and Public Life - [02 Final Report - Analysis](https://www.hobartcity.com.au/files/assets/public/strategies-and-plans/gehl-report/02_final_report_-_analysis.pdf)
+•  Hobart 2010 Public Spaces and Public Life - [03 Final Report - Recommendations](https://www.hobartcity.com.au/files/assets/public/strategies-and-plans/gehl-report/03_final_report_-_recommendations.pdf)
+•  Hobart 2010 Public Spaces and Public Life - [04 Final Report - Public Life Data](https://www.hobartcity.com.au/files/assets/public/strategies-and-plans/gehl-report/04_final_report_-_public_life_data.pdf)
+
+**Note:**
+
+THE DIGITAL TWIN IS PART OF A PROOF OF CONCEPT PROJECT BEING
+DEVELOPED BY CITY OF HOBART AND THERE ARE NO GUARANTEES OF
+SPATIAL ACCURACIES.
+
+DISCLAIMER:
+THIS DATA IS CONFIDENTIAL AND IS NOT TO BE SUPPLIED TO ANY OTHER
+PARTIES. THE DATA IS ONLY TO BE USED FOR THE REQUIRED 
+PROJECT/PURPOSE IN AGREEMENT WITH THE CONTRACT OF ENGAGEMENT,
+AND IN ACCORDANCE WITH ANY RELEVANT COH POLICIES.
+THE DATA SUPPLIED IN THESE FILES IS NOT TO BE USED FOR DESIGN OR
+CONSTRUCTION PURPOSES. THE DATA HAS BEEN ACQUIRED FROM VARIOUS
+SOURCES AND THEREFORE IS RECORDED AT VARYING LEVELS OF RELIABILITY
+AND THE INFORMATION CONTAINED IN THESE FILES MAY NOT BE COMPLETE.
+THE HOBART CITY COUNCIL DOES NOT WARRANT THE ACCURACY OR
+COMPLETENESS OF THE INFORMATION CONTAINED IN THESE FILES, AND THE
+INFORMATION SHOULD BE VERIFIED BY A FULL SITE SURVEY PRIOR TO ANY
+DEVELOPMENT OR CONSTRUCTION WORK BEING UNDERTAKEN. THE HOBART
+CITY COUNCIL ACCEPTS NO RESPONSIBILITY FOR ANY CLAIMS FOR LOSS,
+DAMAGE OR INJURY SUFFERED BY ANY PERSON OR ORGANISATION
+RESULTING FROM THE USE OF THE DATA CONTAINED IN THESE FILES.
+
+**Image credit:** City of Hobart.
+",Use one or more datasets from CoH Open data portal and ensure the submission relates to Artificial Intelligence and Machine Learning for a CoH Digital Twin.,"",2021-08-20 17:10:41 +1000,2021-08-21 01:03:14 +1000,"[""City of Hobart""]",3
+New Zealand,2021,275,Being More Sustainable: Travelling using the most sustainable route,"We all know the effect on climate change from CO2 emissions. How can we translate this into tangible action made by a citizen, that they know is making a collective impact?
+","
+Transportation is a high CO2 emissions source. How can you assist a citizen to travel across the city, using the most sustainable route?
+
+Everyone is different and have varying constraints in their lives, eg. a family of four cannot scooter, a single traveller has more flexibility. We need to take this into account.
+
+Through this challenge, the council wants to encourage “Active Citizenship” under the greater theme of “Conscious choices”. This will help facilitate the citizen to understand the total cost of activity. Vote with your travel habits!
+
+We want you to build a solution that assists a citizen when deciding how to travel from one point to another in the most sustainable way.
+
+### Additional Information: 
+
+Below are examples of how you might wish to approach this challenge. Please use this as an example only and not as guidance.
+
+**For example:**
+
+Option 1: Drive from A to B, for vehicle type C = D CO2 tonnes and cost you $E, F hrs in time, needing G Trees planted to offset the trip
+
+Option 2: Walk from A to Station B, Take bus C, Stop at Station D, grab a lime scooter to E = F CO2 tonnes, cost you $G, H hrs in time, needing I Trees planted to offset the trip
+
+1. Provide an application that will ask the user for start and end locations in the city, provide them choices of transportation and display the impact of this choice in:
+
+• CO2, Money, Time, Trees
+• Researched assumptions for CO2 emissions by vehicle type
+
+2. Provide a feature to the help citizen’s constraints: minimize CO2, cost, time, transport changes
+
+3. Connect to a service that makes it easy to Buy, Plant a tree to offset the trip
+
+4. Create a social feature out of Tree currency, compete against friends, reach different levels of trees planted / cost game levels towards zero CO2 for their family; example: https://www.forestapp.cc/
+
+5. Let the citizen know the location of their trees planted
+
+6. A feature that optimizes routes to take the next electric bus
+
+","At least one team member must be able to attend and present challenge if selected at the Te Pae Technology Expo in Oct 2021 (at their own cost).
+","",2021-08-20 14:54:20 +1000,2021-08-21 11:04:24 +1000,"[""Smart Christchurch "", ""UC Business School Te Kura Umanga"", ""Trimble""]",3
+Tasmania,2021,257,Best Tasmanian commercial opportunity,"How can we use Tasmanian Data to create something that could be an economic success?
+","Create any project that you believe could go on to have Commercial success. Projects must use Tasmanian Data in some form or another.
+",Must use Tasmanian data.,"",2021-08-19 17:52:16 +1000,2021-08-20 15:41:50 +1000,"[""Tasmanian Government Department of Premier and Cabinet""]",5
+New South Wales,2021,248,BETTER Public Spaces,"How do we help ensure everyone feels welcome and safe in public spaces (day and night) regardless of age, gender, ethnicity or identity?","### The Challenge:
+
+This problem statement seeks to find solutions that support our **‘BETTER’** public spaces approach, specifically how we can ensure everyone feels welcome and safe in public spaces (day and night) regardless of age, gender, ethnicity or identity.   Not everyone in NSW can access and use public space in the same way. For example, research indicates that women are more likely to feel unwelcome and unsafe in public spaces than men, including when walking alone at night. 
+
+As a part of the Places to Love program partnership between the Department and Penrith City Council, a Womens Night Walk was run in the Kingswood area. Seven key themes from the participants were identified to improve safety 1. Improve Lighting, 2. Create a seamless walking experience, 3. Make our open spaces a place to stay for the whole family, 4. Build on the sense of community, 5. Make our spaces visually attractive, 6. Green and breathable places, and 7. Address perceptions of safety. 
+
+In 2020 the Department’s ‘Public spaces during COVID-19’ survey aimed to provide the NSW Government with insight into the changing uses of public spaces as a result of the COVID-19 pandemic. From 4,777 survey responses and online map comments, the following theme on safety in public spaces was a priority: Around 25% of comments were about safety in public spaces. The feedback suggests local communities have a good understanding of what their neighbourhoods need to be safe. This includes lower vehicle speed limits and other steps to make public spaces more inclusive and enjoyable for all.
+
+### Background:
+
+Quality green, open and public spaces are important to everyone. They are our free and publicly accessible parks, gardens and sports fields, walkable shady streets, libraries, museums and galleries, which form the heart of our communities. Our public spaces make life more welcoming and accessible. They delight and connect people. They support our health and well-being, environmental resilience and prosperous local economies. They’re at the heart of everyday life.
+
+Public spaces are all places **publicly owned or of public use, accessible and enjoyable by all for free**. They include our **open spaces, public facilities (e.g. libraries, galleries, museums) and streets**. The quality of public space is a combination of its **physical form**, the **activities** that occur in the place and the **meaning** people associate with the place. 
+
+The NSW Premier’s Priority Greener Public Spaces (the Priority) is to *increase the proportion of homes in urban areas within 10 minutes’ walk of quality green, open and public space by 10 percent by 2023*. To monitor the impact of the Priority we measure an increase in homes in urban areas that have improved access within 10 minutes’ walk (800m walking catchment) of a new or improved public space.  
+
+To achieve the Priority, we are taking a “more, better, activated” approach, along with emphasising the resilience of public space as playing a key role in the “road to recovery” from recent disasters and the global COVID-19 pandemic. 
+
+• MORE: identifying areas with lower access to public space, the Priority will target strategies that provide access to new quality public spaces in these areas
+• **BETTER:** identifying areas with high access to public space, the Priority will target strategies that improve quality of public spaces in these areas 
+• ACTIVATED: in all areas, the Priority will target strategies that increase activation 
+• ROAD TO RECOVERY: Since 2019 we have also focused our work on the importance of public spaces in the resilience of communities to disasters such as bushfires, floods and the global COVID-19 pandemic. 
+
+The Evaluation Tool for Public Space and Public Life, is the first resource in the new online Great Public Spaces Toolkit. It is a user-friendly resource that allows anyone to assess the quality of public spaces, its positive attributes, as well as areas for improvement. The NSW Public Spaces Charter is another key resource. The Charter, currently in draft form, can be used to guide planning, design, management and activation of public space. The Charter will be a resource for individuals, organisations and agencies responsible for public space.
+
+### Additional Information:
+
+On our webpage you will find more information about the Priority, along with current grant programs, case studies, ideas and opportunities for different types of public spaces - https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces
+
+**Department of Planning, Industry and Environment data:** 
+
+Our advice would be to think broadly and creatively about how DPIE’s data can be used. For these problem statements we don’t always have data that will provide the answers, and we use other forms of information, including reports and surveys when hard data is not available.
+
+•	[Public Spaces location GIS layers](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) on the ePlanning [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) – this dataset helps to understand the provision of public space in a given area. Click “Public Spaces” layers on in the legend on the Viewer to show the location of known open spaces and public facilities across NSW.
+•	[ePlanning Data Portal](https://www.planningportal.nsw.gov.au/opendata/) – a one stop shop for a whole range of open data relevant to public spaces, including NSW Urban Vegetation Cover; Principal Planning Layers such as land zoning; Natural Hazard layers; Green Infrastructure layers including: NSW Heat Vulnerability Index; NSW Urban Heat Island and more. These datasets can be viewed alongside the Public Spaces layers on the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) within the Portal.
+•	[Government Property Index](https://www.planningportal.nsw.gov.au/development-assessment/government-property-index?linkId=118681870) – is a new resource that means you can now search and view NSW Government-owned land and property online. The index is available spatially as a layer via the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address). Information on government owned Crown Land is also available as layers on the Viewer. 
+•	[Public Spaces Streets as Shared Spaces Engagement Report](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0006/348027/Public-Spaces-Streets-as-Shared-Spaces-Engagement-Report.pdf) – includes results of survey aimed to provide the NSW Government with insight into the changing uses of public spaces as a result of the COVID-19 pandemic.
+•	[Draft NSW Public Spaces Charter](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0007/347740/Draft-NSW-Public-Spaces-Charter.pdf) – developed to support the planning, design, management and activation of public spaces in NSW. It identifies ten principles for quality public space, developed through evidence-based research and discussions with public space experts and community members.
+•	[Great Public Spaces Toolkit](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit) – including the [Evaluation Tool for Public Space and Public Life](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#evaluation-tool-for-public-space-and-public-life) can be used by anyone wanting to better understand a public space’s strengths or areas for improvement. The [Great Public Spaces Guide](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#great-public-spaces-guide), introduces the meaning of place and the elements that contribute to creating a great public facility, open space or street.
+
+**Other Government agency datasets that may be of relevance:**
+
+The other advice we would provide is that, more, better and activated public space is a cross cutting issue for the NSW Government. We have found that we often utilise other agency’s open data sources when we are looking to understand need and value of public space. 
+
+•	Spatial Services [NSW Point of Interest (POI)](https://data.nsw.gov.au/data/dataset/nsw-points-of-interest-poi) web service provides the identification and location of a feature, service or activity that people may want to see, know about or visit.
+•	Office of Local Government [Time Series](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/) datasets, including data on Population per hectare of open space.
+•	NSW Health [HealthStats](http://www.healthstats.nsw.gov.au/Indicatorgroup/TopicIndicatorGroups), including on topics such as Physical Activity Levels.
+•	Transport for NSW [Open data portal](https://opendata.transport.nsw.gov.au/)
+•	NSW Bureau of Crime Statistics and Research [Crime Statistics](https://www.bocsar.nsw.gov.au/Pages/bocsar_crime_stats/bocsar_crime_stats.aspx) data.
+•	ABS 2016 [Census products](https://www.abs.gov.au/census/find-census-data/more-products), including Mesh block counts on population and dwellings, and Socio-Economic Indexes for Areas (SEIFA). 
+•	National Recovery and Resilience Agency disaster-related [datasets](https://data.gov.au/data/organization/nbra), including for the March 2021 floods and 2019-20 bushfires.
+•	Greater Sydney Commission [Greater Sydney Green Grid](https://www.greater.sydney/metropolis-of-three-cities/sustainability/city-its-landscape/green-grid-links-parks-open-spaces) – The Green Grid connects communities to the landscape. It is a long-term vision for a network of high quality green areas. 
+•	Greater Sydney Commission documents including the [Greater Sydney Region Plan](https://www.greater.sydney/metropolis-of-three-cities), [Women’s Safety Charter](https://www.greater.sydney/thought-leadership/womens-safety-charter)
+•	[Public Libraries in New South Wales Directory](https://www.sl.nsw.gov.au/public-library-services/about-public-library-services/find-public-library-nsw)
+•	[Penrith City Councils Kingswood Live Work Play Grid](https://www.yoursaypenrith.com.au/project/liveworkplaykingswood) – Women’s Night walk including the summary of key findings report 
+
+**Presentation at the New South Wales Connections Event**
+
+•	[Conversation with Vanessa Gordon (Director of Place from the Department of Planning, Industry and Environment)](https://youtu.be/UpKmHWfcQNc?t=612)
+
+**Image credit:** Burwood City Council library pop-up in the upgraded new laneway Unity Place, Department of Planning, Industry and Environment
+","",https://www.youtube.com/embed/v5KvENR40kc,2021-08-19 01:08:20 +1000,2021-08-20 15:35:01 +1000,"[""NSW Department of Planning, Industry and Environment""]",14
+Queensland,2021,267,Brisbane Olympics,"Queensland will host the 2032 Olympic Games in Brisbane.  Using Queensland open data, what can we do now to help the state prepare? ","Every four years, more than 11,000 athletes, from over 200 nations, compete in 33 different sports for medals and the title of the best in the world.  
+
+The Brisbane games will be the 35th summer Olympics with the last Australian event held in Sydney in 2000.    
+
+Preparing infrastructure, such as sporting venues, transportation and accommodation are all important.  
+
+How can the visitor experience be improved?  
+
+What can we do to ensure our athletes are prepared?  
+
+### Additional Information:
+
+**Additional links:**
+• [data.qld.gov.au](https://www.data.qld.gov.au/)
+• https://www.data.qld.gov.au/article/news-and-events/govhack-2021",Must use at least one dataset from data.qld.gov.au. ,"",2021-08-20 12:43:13 +1000,2021-08-20 12:46:57 +1000,"[""Queensland Government""]",7
+South Australia,2021,269,Building Citizen’s Trust in this Digital World,"In order to access online services, citizens need to give their consent for their data to be used. How do you gain their trust that their data will be used appropriately? ","There has always been concerns around data governance and citizens having no visibility of what data is being collected from them, in which way and how it is being used. The terms and conditions might list these details, but it is not always the case that the citizens read (due to the length of it) or understand (due to the way it is written) it. This ties back to the trust that citizens have that the data is being used for bettering the systems and products.
+
+In your solution, we would like you to consider who should have control of the citizen’s data – is it the citizens themselves or the Government or someone else?
+
+How do we make what is collected visible to the citizen?
+
+What technologies would you use, for example, blockchain or other technology?
+
+### Additional Information:
+
+**Job opportunity:**
+
+• All finalists will have an opportunity to be interviewed for a job opportunity if interested.
+
+**Additional links:**
+• Here is a dataset that you may want to look at - [SA Government COVID SAfe Check-Ins dataset](https://hackerspace.govhack.org/data_sets/1081)
+
+","","",2021-08-20 13:08:47 +1000,2021-08-20 13:08:47 +1000,"[""Pernix""]",7
+Australia,2021,233,Create a solution to a customer need using the ABS Data API,"We are excited to provide innovators with machine to machine access to ABS Data and see what exciting customer solutions can be created. Here is a chance to draw in ABS Data and answer an important question through visualisation, mapping or even blending with other data sources. Create a solution to a customer need using data drawn from the ABS Data API.
+","The ABS is improving the way we make our statistics available to inform Australians.  Since releasing the new ABS Website in September 2020, we have been focused on improving API access to data.  We are excited to provide innovators with machine to machine access to ABS Data and see what exciting customer solutions can be created. Here is a chance to draw in ABS Data and answer an important question through visualisation, mapping or even blending with other data sources.
+
+**Video Explainer:** GovHack Digital Conference 2021: [Australia Bureau of Statistics - ABS Data API](https://www.youtube.com/watch?v=DZKWgOhRUVQ)","Teams are encouraged to use datasets from a variety of sources, but at least one must be drawn from the ABS Data API.",https://www.youtube.com/embed/DZKWgOhRUVQ,2021-08-18 23:29:43 +1000,2021-08-20 01:46:39 +1000,"[""Australian Bureau of Statistics""]",20
+Queensland,2021,254,Deadly choices for Moreton Bay (QLD),"How can we support the development of social and cultural outcomes across the Moreton Bay Region?
+","Using Open Data from a variety of sources, help us create social and cultural opportunities for our residents, including our First Nations people. Ideas and examples could include ready supply of fresh fruit and vegetables for socio-economic disadvantaged groups, through to art trails through to professional development and skills building.  All ideas welcome, and remember to focus on our region!
+
+This is one of three Moreton Bay specific challenges put together by a consortium of business, education and government organisations, all passionate about our local region.  We will have a group of USC Moreton Bay students participating on campus at Petrie Mill alongside local innovators, and we encourage you to join with them in putting a spotlight on our region.
+
+### Additional Information:
+
+**Additional links:**
+• https://www.moretonbay.qld.gov.au/Services/Business-Investment/REDS 
+• https://datahub.moretonbay.qld.gov.au","Open to everyone, preference will be given to those providing solutions using at least one local Moreton Bay data set.","",2021-08-19 14:03:51 +1000,2021-08-20 01:02:44 +1000,"[""Moreton Bay Regional Council""]",5
+Queensland,2021,265,Digital Economy ,What can we learn from open data that will help Queenslanders grow the digital economy during the COVID-19 recovery?,"Many Queenslanders, and citizens across the world, have been forced into a digital transformation while navigating the COVID-19 pandemic.  
+
+Online services, virtual environments, data sharing and analysis have all developed significantly in recent times.  
+
+What can we learn from this transition to uplift digital capability and improve digital services?
+
+### Additional Information:
+
+**Additional links:**
+
+• [data.qld.gov.au](https://www.data.qld.gov.au/)
+• https://www.data.qld.gov.au/article/news-and-events/govhack-2021
+","Must use at least one dataset from data.qld.gov.au.  
+","",2021-08-20 12:26:30 +1000,2021-08-20 12:48:36 +1000,"[""Queensland Government""]",3
+New Zealand,2021,262,Digital Future – New Zealand,"How can New Zealand lead its effort to build Digital Skills, Education and Employment?
+","The global health crisis has accelerated digitalisation by at least a decade. For New Zealand to be a world leading digital economy, there’s a need to build digital technology skills, develop a tech start-up ecosystem that will create more employment opportunities in the economy. 
+
+We want you to re-imagine learning and skills programs that will lead to a thriving digital start-up ecosystem in New Zealand. While technology is changing our lives for the better, it’s also augmenting how we work, replacing repetitive tasks performed by humans and allowing people the opportunity to work in areas that leverage creative and cognitive skills. 
+
+According to research from NZTech, the global health crisis has pushed New Zealand’s digital skills shortage to crisis point. The organisation’s digital skill survey found that the pandemic has caused a severe skills shortage of digital skills in New Zealand and there could be as many as 10,000 open roles that companies are struggling to fill. 
+
+For New Zealand to be a world leading digital economy it’s crucial for it to re-imagine its approach to education, learning and employment that will accelerate digital skills. An important area to consider while working on this challenge is the need to build a culture that encourages New Zealanders to embrace digital skills. 
+
+•	How can we enable workers today and tomorrow possess the skills to succeed in our future? 
+•	How can we prepare future students for the jobs of tomorrow? 
+•	How can we identify and encourage the next generation of technologists who may need help to realise those future opportunities? 
+
+Everything from business operations to consumer choices to employment opportunities have changed due to the global health crisis. The impact of digital skills shortage in our labour market is significantly impacting our country’s economic output. How can we build net-new talent and build a sustainable ecosystem of job creation via New Zealand digital start-up and enable talent that can support such an ecosystem.
+
+### Additional Information:
+
+**Additional links:**
+
+IT Brief New Zealand (12 August 2021): [NZ’s digital skills shortage reaches crisis point: How to attract and retain talent during tough times](https://itbrief.co.nz/story/nz-s-digital-skills-shortage-reaches-crisis-point-how-to-attract-and-retain-talent-during-tough-times)
+
+NZ Tech: [New Zealand facing a digital skills crisis](https://nztech.org.nz/2021/07/05/new-zealand-facing-a-digital-skills-crisis/)
+
+**Image credit:** Infosys",Must use at least one open dataset.,"",2021-08-20 11:17:37 +1000,2021-08-20 11:19:29 +1000,"[""Infosys""]",2
+New South Wales,2021,251,Emerging population trends and post-pandemic planning,"What is the impact of COVID-19 on reshaping population growth and distribution across NSW?
+","Much established population data is backward looking, and only available well after the events that may alter it. Whilst, under ‘normal’ conditions, there is inertia in much population change; the last two years have demonstrated that sizable shocks can occur.
+
+What does a shock, such as the COVID-19 pandemic mean for projecting future population change. Can pre-existing trends be expected to reoccur or can ‘early-warning’ signals of emerging trends be identified while they are still developing?
+
+**More information:**
+
+We know the 2021 Census is going to be a snapshot of a very turbulent time and alternative data is needed to better identify contemporary population change (both growth and decline). 
+
+The modelling that the population team does is around where people live and the communities they live in. Household sizes are changing all the time, but how will a shock such as the COVID-19 pandemic influence household size. For instance, has the pandemic resulted in more young people who have come from regional areas to metropolitan areas for study or work, move back home for a cheaper and safer lifestyle. If this is occurring, what impact does this have on household sizes, are they getting bigger? What does this mean for infrastructure and service delivery in regional communities?
+
+Considering the uncertainty around the impacts of the pandemic and what this means for the future, how can we automate and produce a synthetic resource to be able to track better data? Has COVID-19 reshaped the population in NSW? 
+
+How do we show the impact it has on communities within NSW? 
+
+How can NSW Government help with the change within local communities, especially regional and rural communities?
+","","",2021-08-19 01:41:36 +1000,2021-08-20 00:51:37 +1000,"[""NSW Department of Planning, Industry and Environment""]",6
+New Zealand,2021,276,Engaging with SmartView-Go: Encouraging interaction between citizens and their city,"The city council wants to encourage higher interaction between citizens of how people feel about the city, share education on their constraints on resources, and provide a platform to reward citizen action.
+","The council has limited resources and wants to spend money and time on larger projects, so how do we reward a citizen taking the initiative on reporting and solving smaller city issues?
+
+The goal is to allow the Christchurch City Council to engage with the public by using an outdoor smartphone app (for example think about how games such as Pokemon-Go, Ingress Prime or others encourage people to go outside).
+
+The council wants to encourage “Active Citizenship”, encouraging the public to identify and report any issues, as well as encouraging citizens to take action on them. The council has limited resources and wants to spend money and time on larger projects, so how do we reward a citizen taking the initiative on smaller reported city issues? For example:
+
+• Cleaning up graffiti
+• Removing doggy doo on the footpath
+• Picking up rubbish in parks
+
+The council might want to communicate to the public about projects they are undertaking and ask for the public opinion and satisfaction. For example:
+
+• ""You are using a new bike path, how do you like it?""
+• ""You pass by a smart rubbish bin which is part of the smart city development and read about the project.""
+• ""This tree is an apple tree, come back around May to collect apples.""
+
+This challenge is about creativity and developing the engagement of the council and citizens via a fun app so description and example above are only for inspiration. You can make a difference! 
+
+Build our your ideas for a smartphone app that encourages interaction between citizens and their city and encourages citizen action.
+
+### Additional Information: 
+
+Below are examples of how you might wish to approach this challenge. Please use this as an example only and not as guidance.
+
+**For example:**
+
+ONE - Provide an application that will allow a citizen to report a new issue
+
+a. Added feature to look for reported issues around me, take assignment, allow a photo to be capture before and after, and submit the resolution
+b. Added feature to show a citizen their current points level and list of their achievements
+c. Allow a feature to share these achievements on social media
+d. Display what they can use the points for: rewards list
+
+TWO - Add SnapSendSolve data for Graffiti information issues within the search function
+
+THREE - Provide a feature to read and add a comment on a council area of interest
+
+a. Smart rubbish location, Bike paths, CCC project location, Fruit trees, Drinking fountain, Street Art
+","One or more team members must be able to attend and present at the Te Pae Technology Expo in Oct 2021(at their own expense).
+","",2021-08-20 15:04:16 +1000,2021-08-21 11:13:27 +1000,"[""Smart Christchurch "", ""UC Business School Te Kura Umanga"", ""Trimble""]",2
+Australia,2021,236,Exploring the National Skills Commission’s Australian Skills Classification,"How can the general public learn about and be encouraged to interact with the Australian Skills Classification to identify skills within occupations, identify their own skillsets and identify transferability to other occupations of interest?","The challenge involves exploring how the Australian Skills Classification can be made useful to the general public (including young people, job seekers and those looking for job transitions) for use in identifying existing skill and pathways of transition to occupations of interest.
+
+<br>
+# The Australian Skills Classification
+<br>
+
+The National Skills Commission (NSC) was established in July 2020, under the National Skills Commissioner Act 2020 and is supported by the Department of Education, Skills and Employment. 
+
+The Australian Skills Classification (the Classification) was released by the NSC as a beta in March 2021. The Classification is a brand new way of categorising skills, and it systematically sets out a structure for and relationships between skills within occupations and across the labour market. 
+
+The Classification currently provides occupation profiles outlining the core competencies, technology tools, and specialist tasks for 600 occupations. The Classification identifies: 
+• 10 core competencies: common skills used in all occupations 
+• 88 technology tools: a technology, such as software or hardware, associated with a job
+• 1925 specialist tasks: detailed work activities required within a job.
+
+The new way of categorising skills and its relationship with occupations can be illustrated in the following example. Sales Assistants is the largest employing occupation in Australia. This occupation requires skills in customer service, processing sales, maintaining product knowledge and monitoring inventories. The Classification allows users to see which other occupations also require these skills. For instance 13 other occupations also perform the task of “Advise customers on the use of goods or services”, including Landscape Architects and ICT Sales Professionals. Sales Assistants also have high competency levels for teamwork and use a variety of software and hardware in their roles, all of which can be seen in the Classification profile for this occupation. 
+
+While training packages and industry organisations have defined certain skill sets for particular occupations, there has been a lack of a broader framework to identify and consistently measure and align skills. Instead, education levels, qualifications and occupations have been used as proxies for skill levels. While skills in individual occupations, qualifications are recognised, there has been a lack of understanding of how bundles of skills combine within occupations and can be transferable across different roles in the labour market.
+
+By categorising skills, and linking them to occupations, the Australian Skills Classification helps people such as job seekers and school leavers make informed decisions about jobs and career choices.
+
+<br>
+# The Challenge
+<br>
+
+Since the beta launch in March, the current users of the Skills Classification have mainly been industry associations and leaders, training and qualification providers, and policy makers and researchers. The challenge is now to explore how the Skills Classification can be made useful to the general public (including young people, job seekers and those looking for job transitions) for use in identifying existing skills and pathways of transition to occupations of interest. 
+
+This challenge could involve developing a new interface, for example that is better targeted to these demographics with new ways of navigating or other functionality that allows the general public to explore and becoming familiar with using the Classification.
+",Participants must use the Australian Skills Classification dataset.,"",2021-08-18 23:39:00 +1000,2021-08-20 00:34:14 +1000,"[""Department of Education, Skills and Employment""]",26
+New South Wales,2021,249,Getting parking right: matching car parking rates to accessibility,"How can we make a difference by making ‘accessibility’ measurable?
+","We are looking for a way to measure ‘accessibility’ to help us set car parking rates for new development that are more responsive to locational context. 
+
+We want to understand how people use public and active transport, and emerging transport solutions like car share, to meet their transport needs – and where on-site car parking requirements can be reduced as a result.
+
+### Background:
+
+Land use planners are keen to ensure that requirements for car parking provision by new development are appropriate. 
+
+Appropriate levels of car parking provision vary dramatically depending on the type of development and its location. A key factor appears to be the accessibility of the development’s location. A highly-accessible area tends to be thought of as one that is well-connected to key services via active or public transport, and/or to have a high level of access to emerging transport solutions like car share.
+
+Ensuring appropriate levels of car parking can have significant flow-on effects for the broader community – for example:
+
+•	In low-accessibility areas, appropriate car parking can reduce time taken to find, or queue for, parking; this can also reduce the number and duration of traffic jams.
+•	In high-accessibility areas, appropriate car parking can encourage use of active and public transport, and result in reduced levels of car use and ownership.
+
+There is currently no reliable way for accessibility to be measured. So, we are looking for a way to measure accessibility that:
+
+•	Can be defined in legislation
+•	Can be easily used by anyone, for any location in NSW
+•	Enables the setting of clear thresholds – e.g. if a location satisfies a certain threshold for accessibility, a new development would not be required to provide car parking, or could provide it at a lower rate because the people living there are less likely to need to use or own cars.
+
+A way of visualising this measure of accessibility (for example, via a heat map or similar) would also be highly valued. 
+
+Such a measure would provide land use planners with an evidence base for setting the most appropriate car parking requirements for new development. 
+
+In solving this problem, it might be useful to consider:
+
+•	Where are we already seeing reduced dependency on cars? What factors are influencing this? 
+•	Where is dependency on cars still high? What factors are influencing this?
+
+Factors might include things like:
+
+•	How long it takes to get to essential services like shops and schools by active (walking, cycling) or public transport
+•	Public transport accessibility:
+    o	How many routes are available within a certain distance of each location?
+    o	How many services do those routes receive at different times of day? 
+    o	Is access direct or are service changes needed?
+•	The availability and uptake of novel transport solutions like car share
+
+### Additional Information:
+
+**Useful links:**
+
+The following websites may provide some insights into how this problem could be addressed:
+
+•	[Walkscore.com](https://www.walkscore.com/)
+•	[AwaP-IC – an open-source GIS tool](https://thud.msd.unimelb.edu.au/tools-and-models/awap-ic-an-open-source-gis-tool-for-measuring-walkable-access) for measuring walkable access
+•	London’s [WebCAT](https://tfl.gov.uk/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat) is an example of how another major city has tried to grapple with this issue. WebCAT provides information on London's transport system to the professional planning community; its connectivity assessment toolkit provides two ways of measuring transport connectivity:
+    o	PTAL assesses connectivity (level of access) to the transport network, combining walk time to the public transport network with service wait times
+    o	Time Mapping analysis (TIM) assesses connectivity through the transport network or, in other words, how far a traveller can go expressed as a series of travel time catchments
+•	The report [“Assessing transport connectivity in London”](https://content.tfl.gov.uk/connectivity-assessment-guide.pdf) provides a user-friendly background to London’s approach, and details of how PTAL and TIM are calculated.
+•	[Transport for NSW’s propensity to cycle report](https://opendata.transport.nsw.gov.au/dataset/cycling-propensity)
+•	Transport for NSW - [Travel Choices](https://www.mysydney.nsw.gov.au/travel-choices)
+•	City of Sydney - [Travel planning guidelines](https://www.cityofsydney.nsw.gov.au/development-guidelines-policies/travel-planning-guidelines)
+
+**Image credit:** Aerial view of a city at night, photo by [Jeremy Bishop](https://unsplash.com/photos/KFIjzXYg1RM) on [Unsplash](https://unsplash.com/)
+
+","","",2021-08-19 01:19:18 +1000,2021-08-20 15:30:54 +1000,"[""NSW Department of Planning, Industry and Environment""]",4
+International,2021,264,Hack for a Circular Economy,"In order to build a more sustainable community, how might we redesign, rethink, repair and repurpose spaces, places, materials, and digital infrastructure, systems and policies within cities in order to progress social, natural and economic development? ","Building a Circular Economy in our communities across Australia & New Zealand is essential to make our cities and regions more sustainable and digital technology will play an important role along this journey.
+
+According to the United Nations 55% of the global population lives in urban areas and is expected to rise to 68% by 2050 (UN DESA, 2020). This density of population has a significant impact on global waste as cities are responsible for consuming 75% of the world’s natural resources. Hence, we need to build cities that are more sustainable and leveraging the approach of a Circular Economy can help address this challenge. We need to redesign, rethink, repair and repurpose the resources that contribute to a very significant i.e., 50% of global waste (Circular Cities, 2020) within our cities.  
+
+Before you begin working on this challenge it’s important to understand “What a Circular Economy is?” The Ellen MacArthur Foundation defines Circular Economy being a systemic approach to economic development designed to benefit businesses, society, and the environment. In contrast to the ‘take-make-waste’ linear model, a circular economy is regenerative by design and aims to gradually decouple growth from the consumption of finite resources. To understand the Circular Economy better you could visit this [page](https://archive.ellenmacarthurfoundation.org/explore/the-circular-economy-in-detail). 
+
+While working on this challenge, participants are expected to reimagine the existing systems within cities; including buildings, spaces, mobility and transport systems, among other infrastructure and propose new solutions underpinned by circular economy principles. To make your idea part of the global agenda, consider the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals). 
+
+Circular economy principles which aim to eliminate waste have the potential to contribute to more sustainable cities. A system that reduces waste, activates space, and promotes positive social and economic change. As part of this challenge participants are expected to develop solutions that leverage digital technology to bring the idea of a circular economy to life. 
+
+The areas participants would need to evaluate include:
+
+•        Emissions
+•        Water 
+•        Waste
+•        Energy 
+
+### Additional Information:
+
+**Additional links:**
+
+•       Understanding a Circular economy: https://archive.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy
+
+**Image credit:** Infosys",Must use at least one open dataset.,"",2021-08-20 12:12:48 +1000,2021-08-20 12:14:38 +1000,"[""Infosys""]",15
+International,2021,261,Health and wellbeing of autistic people during a pandemic,"The COVID-19 pandemic has negatively impacted the mental health of people all around the world. Studies suggest that there is likely to be a much greater impact for people with autism spectrum disorder, as the pandemic directly affects social functioning and everyday routines.","In this challenge, we would like you to consider the following questions:
+
+How has the pandemic impacted people with autism spectrum disorder?
+
+How can data be used to improve the quality of life for autistic people during the pandemic? 
+
+At least one open data set must be utilised, and teams are encouraged to find diverse datasets for their project.
+
+Consider the impacts to education - home schooling, technology, social life, routines, support resources.
+
+Consider the impacts to employment - working from home, unemployment, inclusion, equal opportunities.
+
+Consider the impacts to community participation - lockdown, social, rules and restrictions.
+
+Consider access to pandemic-related information.
+",At least one open dataset must be utilised.,"",2021-08-19 22:04:07 +1000,2021-08-20 19:10:28 +1000,"[""GovHack Australia Limited""]",10
+New Zealand,2021,280,Helping Business understand the value of an online presence,Making relevant data and information available could help businesses make decisions about investing in digital and having an online presence such as a website or using digital tools to improve their business.,Only 43% of businesses in New Zealand were reported as having an online presence in December 2020 by Better for Business; 46% reported wanting to make greater use of digital tools. Making relevant data and information available could help businesses make decisions about investing in digital and having an online presence such as a website or using digital tools to improve their business. (https://www.mbie.govt.nz/dmsdocument/12274-nz-business-digital-landscape-december-2020).  ,"","",2021-08-20 15:21:26 +1000,2021-08-20 15:37:14 +1000,"[""Proaxiom""]",1
+Western Australia,2021,241,How would you improve online services in WA?,How would you improve online services in WA?,"On 21 July 2021, the McGowan Government announced they are expanding its red-tape reduction team as part of a record $120 million investment to streamline Western Australia's approvals system and get billions of dollars' worth of capital projects underway.
+
+“There is plenty of room to improve regulation to make it more transparent, predictable, seamless and efficient, and ensure the community has high confidence in it.” 
+
+Citizens and businesses have high expectations when accessing government services digitally. 
+
+### Additional Information:
+
+Digital technology is changing the way governments everywhere support their citizens. Digital innovation provides the WA Government with the opportunity to stimulate economic growth and allow Western Australian people, businesses and communities to thrive.
+
+Innovation and ICT Minister Don Punch launched the new Digital Strategy for the Western Australian Government 2021-2025: Convenient, smart and secure services for all Western Australians.
+
+The Digital Strategy will drive better service delivery by integrating and streamlining government services and regulatory processes. Government operations will be reoriented around the needs of people and businesses - rather than the structures of government.
+
+Government decisions and services should be informed by data. The Digital Strategy will build whole-of-government data and analytics capabilities for new insights into WA's most complex social, health, environmental and economic issues.
+
+The Digital Strategy for the Western Australian Government 2021-2025 (the Digital Strategy) aims to change the way our community interacts with government. It puts Western Australian people, businesses and communities at its centre and sets the vision for a government that provides convenient and secure online services informed by quality data insights. It also recognises that as government delivers more services online and better leverages data to inform its operations, excellent cyber security capabilities are more important than ever.
+
+
+**Useful links:**
+
+• https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/digital-strategy-the-western-australian-government-2021-2025
+• https://www.mediastatements.wa.gov.au/Pages/McGowan/2021/06/Western-Australias-bold-new-whole-of-government-Digital-Strategy-launched.aspx
+• https://www.mediastatements.wa.gov.au/Pages/McGowan/2021/07/Red-tape-reduction-team-part-of-120m-dollar-investment-for-WA-projects.aspx
+
+**Image credit:** Kel Henderson","","",2021-08-18 23:59:00 +1000,2021-08-20 01:41:59 +1000,"[""Two21""]",4
+Queensland,2021,266,Immigration,Queensland’s historical immigration open data is hugely popular. What insights can we gain from this and other related open data?,"Most users of this data are interested in specific records to learn about their ancestry. Are there other interesting stories to be told more broadly within or across the dataset/s?
+
+Can we compare or contrast this historical data with more modern open data relating to populations or international migration? 
+
+Here are some datasets to start with - https://www.data.qld.gov.au/dataset?q=immigration 
+
+### Additional Information:
+
+**Additional links:**
+• [data.qld.gov.au](https://www.data.qld.gov.au/)
+• https://www.data.qld.gov.au/article/news-and-events/govhack-2021
+",Must use at least one dataset from data.qld.gov.au.  ,"",2021-08-20 12:36:30 +1000,2021-08-20 12:40:52 +1000,"[""Queensland Government""]",3
+Australia,2021,255,IoT insights for better regional agribusiness at scale,"How might we harness open data and IoT insights in near-real-time to enable local agribusiness and farms in our regions be more productive and sustainable at scale?
+
+How can we share private IoT data and regional open data for an overall more productive and sustainable agribusiness?
+","With the increased prevalence of droughts, natural disasters, harmful pests, and climate change, it has never been more important to innovate for sustainable and resilient farming practices.  Environmentally friendly techniques and technology are the key to meeting the food demand with right nutrition for consumers. 
+
+Using IoT data, design and develop a solution that improves farming practices and increase yield in a sustainable way ( i.e., reducing carbon footprint, leveraging scarce water, minimal pesticide usage) . The solution should empower farmers to make informed and timely decisions on how to grow, manage and sustain farm produce and the environment with minimal effort.
+
+The “Internet of Things” refers to the billions of devices and sensors connected to the internet that can send and receive data. These devices could be smart lights, temperature monitors, water meters, cow trackers, security cameras, tractors, glasses, soil PH monitors, fences, anything you can thing of! Those devices generate an incredible amount of data.  That data may be useful to the owner of the device, AND if combined with other data points it could drive big data insights to our agribusinesses. 
+
+There are many ways for IoT devices can connect to the internet. You could connect them with internet cables, or connect over Wi-Fi, Bluetooth, Sigfox, and several other local networks. But arguably the easiest and fastest way to connect to the internet is by putting a SIM in those devices, so it can connect straight to the 3G/4G/5G network without you having to set up cables or configure passwords. This is ‘cellular’ IoT. 
+
+At Telstra, we have 2 incredible cellular IoT technologies that are “Low Power Wide Area Networks” (LPWAN): NB-IoT and Cat-M1. With lower power required to connect, LPWAN IoT devices have a longer battery life. For rural deployments, this means less time spent going out to remote areas for battery changes, and in urban dense areas it means less disruption digging up underground sensors. Cellular IoT also allows rapid deployment, with minimal change to existing infrastructure; no dodgy wi-fi connections or cables, just set and forget!
+
+In agriculture, IoT has been used to understand hyper-local weather rainfall and sunshine levels to help farmers plan harvesting times, or in tracking cattle location and temperature to protect their livestock, or alerting land owners when the water tanks on their remote farm are running dry so they can trigger a water pump to top it up. 
+
+We can use granular data points from the live agriculture systems to visualise and automate these systems in real time, but we can also use historical data from the IoT sensors paired with open data to create long-term changes to the fundamental systems.  
+
+How can we enable agribusiness to use enhance precision farming with minimal water and energy wastage and reduced pesticide application?
+
+How can we give land owners and farmers in agribusiness the insights they need to change the way they produce sustainably?
+
+Don’t limit it to the single farmer, or the single paddock, think big! 
+
+### Additional Information:
+
+**Challenge explainer video:**
+
+•	https://www.youtube.com/watch?v=pmdpr9kW-Ss
+
+**Technology to highlight:**
+
+•	Telstra’s Low Power Wide Area Network Internet of Things technology, IoT connected devices with cellular IoT SIMs: https://www.telstra.com.au/business-enterprise/products/internet-of-things/capabilities/iot-network 
+
+**Useful links:**
+
+•	Quick explainer of IoT in agriculture: https://youtu.be/pOLAIVUs9S8
+•	Capabilities of the Telstra IoT Network: https://www.telstra.com.au/business-enterprise/products/internet-of-things/capabilities/iot-network
+•	Purchase IoT Devices and Connectivity on TelstraDev: https://dev.telstra.com/iot-marketplace/arduino-mkr-nb-1500 
+•	Examples of devices on the cellular LPWAN IoT network for environmental monitoring: https://www.telstra.com.au/business-enterprise/products/internet-of-things/solutions/environment-monitoring 
+•	Agritech AusIoT meetup group recording: https://www.youtube.com/watch?v=dq2-hMiUofo&ab_channel=AusIOT 
+
+**Judging criteria:**
+
+•	Must show how the solution proposes to use Internet of Things devices/sensors
+•	Must demonstrate how the data collected from these sensors can be used to create a positive outcome for agribusiness
+•	(Recommend) Combines the IoT data set collected from IoT sensors with open data set
+•	(Recommended) Can describe the selection of network for the IoT devices/sensors. E.g Telstra NB-IoT, Wi-Fi, Satellite etc.
+•	(Optional) Utilise Microsoft Azure. Credits available from Microsoft in the #talk-microsoft Slack channel
+•	Note: does NOT need to include a working prototype, just a plan. If you do want to make a working prototype, reach out in the #talk-telstra Slack channel to get a Telstra IoT starter kit: https://dev.telstra.com/iot-marketplace/arduino-mkr-nb-1500 
+
+**Image credit:** [AlkeMade](https://pixabay.com/users/alkemade-804941/) on [Pixabay](https://pixabay.com/photos/tractor-water-agricultural-vehicle-5096167/)
+
+","",https://www.youtube.com/embed/pmdpr9kW-Ss,2021-08-19 14:10:04 +1000,2021-08-20 01:48:22 +1000,"[""Telstra Dev""]",13
+Queensland,2021,252,Jobs and Growth for Moreton Bay (QLD),"How can we create a prosperous future for our youth?
+","Using Open Data from a variety of sources, help us create jobs and economic growth across our region. Ideas and examples could include using IoT data to understand how Council facilities are used, and what influences usage for parks and pathways, how might knowing this help local businesses in the area through to new technologies and business ideas for the future.  All ideas welcome, and remember to focus on our region!
+
+This is one of three Moreton Bay specific challenges put together by a consortium of business, education and government organisations, all passionate about our local region.  We will have a group of USC Moreton Bay students participating on campus at Petrie Mill alongside local innovators, and we encourage you to join with them in putting a spotlight on our region.
+
+### Additional Information:
+
+**Additional links:**
+• www.moretonbay.qld.gov.au/REDS
+• https://datahub.moretonbay.qld.gov.au
+","Open to everyone, preference will be given to those providing solutions using at least one local Moreton Bay data set.","",2021-08-19 13:59:46 +1000,2021-08-20 01:03:40 +1000,"[""Moreton Bay Regional Council""]",10
+International,2021,237,Living in a post-pandemic world,"How can we use real-time data to assist with the preparation and ongoing management of living with Covid-19 as we progress towards a post-pandemic Australia and New Zealand?
+","More than a year and a half into the coronavirus pandemic, the world’s nations are now coming to accept that Covid-19 is not going away. With vaccination rates increasing, the number of hospitalisations and deaths from the virus are beginning to come under control. Plans are beginning to be made to progressively re-open the world.
+
+The Australian National University has collated and normalised Covid management data from across Australia through CRISPER (see below for details on CRISPER). This includes up-to-date listings of all Covid hotspot locations. This data has been made available within Confluent Cloud to assist with the challenge.
+
+How can we use real-time data to assist with the preparation and ongoing management of living with Covid-19 as we progress to post-pandemic Australia?
+
+### Additional Information:
+
+**CRISPER is a collaborative project between:**
+
+• ANU Research School of Population Health;
+• ANU Software Innovation Institute;
+• ANU GRAPHC;
+• UQ School of Public Health
+
+**Relevant links:**
+
+• Company website: https://confluent.io
+• Developer information: https://developer.confluent.io
+• Confluent documentation: https://docs.confluent.io
+• Getting started guides: https://www.confluent.io/get-started-v1
+
+**Image credit:** Photo owned by a Confluent team member.",Contestants should use Confluent as part of their solution and the CRISPER dataset as part of their solution.,"",2021-08-18 23:47:19 +1000,2021-08-20 22:16:45 +1000,"[""Confluent""]",13
+New Zealand,2021,277, Making Reaching Out Easier ," Sometimes when you are down or not feeling 100% mentally, reaching out for help can be a bit daunting and overwhelming. Using open data, how you can make the Support Systems currently available to people more accessible, user friendly, understandable and easy to access.
+","","","",2021-08-20 15:07:45 +1000,2021-08-20 15:38:00 +1000,"[""Whanganui District Emergency Management""]",5
+Victoria,2021,244,Managing Our Water Resources,"Can water data help us understand and better manage our water resources and environment?
+","Integrated water management requires a collaborative approach to planning that brings together organisations that influence all elements of the water cycle, including waterways and bays, wastewater management, alternative and potable water supply, stormwater management and water treatment. It considers environment, social and economic benefits.
+
+How can communities influence water cycle management in the setting of service levels and place-based outcomes?
+
+### Additional Information:
+
+**Additional links:**
+• https://www.data.vic.gov.au/",Participants must use one or more datasets from Data.Vic.,"",2021-08-19 00:08:56 +1000,2021-08-20 01:24:54 +1000,"[""Department of Premier and Cabinet, Victoria""]",7
+South Australia,2021,272,Meeting the needs of vulnerable Australians during a global pandemic,How can data help us better understand and meet the needs of vulnerable Australians such as older Australians and Australians with a disability as we navigate through the complexities of a global pandemic?,"The recent Royal Commission into Aged Care Quality and Safety has shown that there are major deficiencies in the care system including difficulty entering and navigating the system, substandard care, and difficulty accessing healthcare and disability services. 
+
+Adding to this challenge, the covid-19 pandemic has resulted in additional complexities for vulnerable Australians – for example, the shift towards fully digital services, lockdowns disrupting routines such as face-to-face healthcare visits and general isolation. Without the right support processes in place, it can mean that older Australians and those with a disability are not receiving the right level of care.
+
+Create a solution that helps to address these issues in order netter meet the needs of vulnerable Australians.
+",Must use at least one open dataset.,"",2021-08-20 14:28:40 +1000,2021-08-20 14:28:40 +1000,"[""GovHack Australia Limited""]",7
+New South Wales,2021,246,MORE Public Spaces ,"How do we unlock underutilised government owned land and property to create new, high quality public space?","### The Challenge:
+
+This problem statement seeks to find solutions that support our **‘MORE’** public spaces approach, specifically through unlocking underutilised government owned land and property to create new, high quality public space. NSW Government land and property owners are an important partner in achieving the Priority, both through place-based planning, delivery of public space and broader initiatives. There is the potential for under-utilised government land to be activated through ‘meanwhile’ or temporary uses until the property or land is needed for a future planned use, or to be used permanently as public space. Greening Grey infrastructure (storm water and other utilities) can also support this goal. 
+
+Targeting interventions on government land for new public space for areas with lower access is also an opportunity. Concepts of shared use of government land and property are also being explored and trailed. The Department of Education's program ‘Share our Space’ is an excellent example for school grounds. Analysis, and innovative and cost-effective methods to understand where unlocking of land is feasible, will support “more” public space. 
+
+### Background:
+
+Quality green, open and public spaces are important to everyone. They are our free and publicly accessible parks, gardens and sports fields, walkable shady streets, libraries, museums and galleries, which form the heart of our communities. Our public spaces make life more welcoming and accessible. They delight and connect people. They support our health and well-being, environmental resilience and prosperous local economies. They’re at the heart of everyday life.
+
+Public spaces are all places **publicly owned or of public use, accessible and enjoyable by all for free**. They include our **open spaces, public facilities (e.g. libraries, galleries, museums) and streets**. The quality of public space is a combination of its **physical form**, the **activities** that occur in the place and the **meaning** people associate with the place. 
+
+The NSW Premier’s Priority Greener Public Spaces (the Priority) is to *increase the proportion of homes in urban areas within 10 minutes’ walk of quality green, open and public space by 10 percent by 2023*. To monitor the impact of the Priority we measure an increase in homes in urban areas that have improved access within 10 minutes’ walk (800m walking catchment) of a new or improved public space.  
+
+To achieve the Priority, we are taking a “more, better, activated” approach, along with emphasising the resilience of public space as playing a key role in the “road to recovery” from recent disasters and the global COVID-19 pandemic. 
+
+• **MORE:** identifying areas with lower access to public space, the Priority will target strategies that provide access to new quality public spaces in these areas
+• BETTER: identifying areas with high access to public space, the Priority will target strategies that improve quality of public spaces in these areas 
+• ACTIVATED: in all areas, the Priority will target strategies that increase activation 
+• ROAD TO RECOVERY: Since 2019 we have also focused our work on the importance of public spaces in the resilience of communities to disasters such as bushfires, floods and the global COVID-19 pandemic. 
+
+The Evaluation Tool for Public Space and Public Life, is the first resource in the new online Great Public Spaces Toolkit. It is a user-friendly resource that allows anyone to assess the quality of public spaces, its positive attributes, as well as areas for improvement. The NSW Public Spaces Charter is another key resource. The Charter, currently in draft form, can be used to guide planning, design, management and activation of public space. The Charter will be a resource for individuals, organisations and agencies responsible for public space.
+
+### Additional Information:
+
+On our webpage you will find more information about the Priority, along with current grant programs, case studies, ideas and opportunities for different types of public spaces - https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces
+
+**Department of Planning, Industry and Environment data:** 
+
+Our advice would be to think broadly and creatively about how DPIE’s data can be used. For these problem statements we don’t always have data that will provide the answers, and we use other forms of information, including reports and surveys when hard data is not available.
+
+•	[Public Spaces location GIS layers](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) on the ePlanning [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) – this dataset helps to understand the provision of public space in a given area. Click “Public Spaces” layers on in the legend on the Viewer to show the location of known open spaces and public facilities across NSW.
+•	[ePlanning Data Portal](https://www.planningportal.nsw.gov.au/opendata/) – a one stop shop for a whole range of open data relevant to public spaces, including NSW Urban Vegetation Cover; Principal Planning Layers such as land zoning; Natural Hazard layers; Green Infrastructure layers including: NSW Heat Vulnerability Index; NSW Urban Heat Island and more. These datasets can be viewed alongside the Public Spaces layers on the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) within the Portal.
+•	[Government Property Index](https://www.planningportal.nsw.gov.au/development-assessment/government-property-index?linkId=118681870) – is a new resource that means you can now search and view NSW Government-owned land and property online. The index is available spatially as a layer via the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address). Information on government owned Crown Land is also available as layers on the Viewer. 
+•	[Public Spaces Streets as Shared Spaces Engagement Report](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0006/348027/Public-Spaces-Streets-as-Shared-Spaces-Engagement-Report.pdf) – includes results of survey aimed to provide the NSW Government with insight into the changing uses of public spaces as a result of the COVID-19 pandemic.
+•	[Draft NSW Public Spaces Charter](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0007/347740/Draft-NSW-Public-Spaces-Charter.pdf) – developed to support the planning, design, management and activation of public spaces in NSW. It identifies ten principles for quality public space, developed through evidence-based research and discussions with public space experts and community members.
+•	[Great Public Spaces Toolkit](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit) – including the [Evaluation Tool for Public Space and Public Life](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#evaluation-tool-for-public-space-and-public-life) can be used by anyone wanting to better understand a public space’s strengths or areas for improvement. The [Great Public Spaces Guide](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#great-public-spaces-guide), introduces the meaning of place and the elements that contribute to creating a great public facility, open space or street.
+
+**Other Government agency datasets that may be of relevance:**
+
+The other advice we would provide is that, more, better and activated public space is a cross cutting issue for the NSW Government. We have found that we often utilise other agency’s open data sources when we are looking to understand need and value of public space. 
+
+•	Spatial Services [NSW Point of Interest (POI)](https://data.nsw.gov.au/data/dataset/nsw-points-of-interest-poi) web service provides the identification and location of a feature, service or activity that people may want to see, know about or visit.
+•	Office of Local Government [Time Series](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/) datasets, including data on Population per hectare of open space.
+•	NSW Health [HealthStats](http://www.healthstats.nsw.gov.au/Indicatorgroup/TopicIndicatorGroups), including on topics such as Physical Activity Levels.
+•	Transport for NSW [Open data portal](https://opendata.transport.nsw.gov.au/)
+•	NSW Bureau of Crime Statistics and Research [Crime Statistics](https://www.bocsar.nsw.gov.au/Pages/bocsar_crime_stats/bocsar_crime_stats.aspx) data.
+•	ABS 2016 [Census products](https://www.abs.gov.au/census/find-census-data/more-products), including Mesh block counts on population and dwellings, and Socio-Economic Indexes for Areas (SEIFA). 
+•	National Recovery and Resilience Agency disaster-related [datasets](https://data.gov.au/data/organization/nbra), including for the March 2021 floods and 2019-20 bushfires.
+•	Greater Sydney Commission [Greater Sydney Green Grid](https://www.greater.sydney/metropolis-of-three-cities/sustainability/city-its-landscape/green-grid-links-parks-open-spaces) – The Green Grid connects communities to the landscape. It is a long-term vision for a network of high quality green areas. 
+•	Greater Sydney Commission documents including the [Greater Sydney Region Plan](https://www.greater.sydney/metropolis-of-three-cities), [Women’s Safety Charter](https://www.greater.sydney/thought-leadership/womens-safety-charter)
+•	[Public Libraries in New South Wales Directory](https://www.sl.nsw.gov.au/public-library-services/about-public-library-services/find-public-library-nsw)
+
+**Presentation at the New South Wales Connections Event:**
+
+•	[Conversation with Vanessa Gordon (Director of Place from the Department of Planning, Industry and Environment)](https://youtu.be/UpKmHWfcQNc?t=612)
+
+**Image credit:** Wendy Whiteley’s Garden transformed an underutilised area of land for the community, Department of Planning, Industry and Environment
+","",https://www.youtube.com/embed/cWnY8UnQcdY,2021-08-19 00:48:29 +1000,2021-08-20 15:35:34 +1000,"[""NSW Department of Planning, Industry and Environment""]",9
+New Zealand,2021,278,Most creative use of open data,"This challenge is about being as creative as you possibly can be using any open data available under any of this year’s themes. Think outside the box and create!
+","","","",2021-08-20 15:08:51 +1000,2021-08-20 16:00:21 +1000,"[""Light + Vessel""]",6
+Western Australia,2021,271,Most outstanding benefit to the residents of Fremantle,How can we use Open Data to most benefit residents of Fremantle?,Take any dataset and use it to create something that will benefit the residents of Fremantle.,Must use at least one open dataset.,"",2021-08-20 13:58:29 +1000,2021-08-20 13:58:29 +1000,"[""City of Fremantle""]",3
+Tasmania,2021,258,Most outstanding benefit to the residents of Tasmania,"How can we use Open Data to most benefit residents of Tasmania?
+",Take any Tasmanian dataset and use it to create something that will benefit the residents of Tasmania.,Must use Tasmanian data.,"",2021-08-19 18:08:00 +1000,2021-08-20 01:15:26 +1000,"[""Tasmanian Government Department of Premier and Cabinet""]",6
+Australia,2021,234,Our financial future,"How might we use publicly available data to safeguard citizens’ financial future?
+","Depending on their stage in life, Australian’s financial future can feel precarious at times – when will I pay off my education debts; will I ever have enough money to retire; how can I make the most of my financial situation? Using available government data, is there a way for Australians to have peace of mind about their financial future?
+","","",2021-08-18 23:34:11 +1000,2021-08-20 00:38:06 +1000,"[""Australian Taxation Office""]",11
+Australia,2021,263,Reimagining Digital Government Services,"How can we re-imagine digital government services in Australia to enable a seamless experience for people of all abilities.
+","The rapid digitalisation in the last 18-months due to the global health crisis has required the government to enable digital government services to extend important services to citizens.  
+
+The global health crisis has seen people gravitate towards digital government services whether by necessity or choice. Citizens expect the government to enable best in class digital government services for people of all abilities. It’s important for these services to be accessible, responsive, transparent, secure, and importantly connected, enabling a seamless experience.  
+
+While working on this challenge, participants are expected to reimagine digital government services and how these could be better made available to citizens by seamlessly integrating services that support people’s needs across life events. Participants will need to think of ideas to deliver digital government services that are simple and personalised across multiple agencies. 
+
+The solutions will need to look at accessibility, responsiveness, security, privacy, transparency, and importantly enable a unified experience. For instance, a seamless experience would entail that the system pre-fills and submits your forms when you request it, pre-assesses your eligibility, and makes automatic payments. All this by enabling secure exchange of data and protecting privacy. 
+
+The solution needs to look at connecting government services behind the scenes and offer the consumer a seamless way to get what they need and when they need it.
+
+### Additional Information:
+
+**Image credit:** Infosys
+ 
+",Must use at least one open dataset.,"",2021-08-20 11:24:20 +1000,2021-08-20 11:25:00 +1000,"[""Infosys""]",25
+Queensland,2021,256,Rethinking Education,"With COVID-19, we have had to re-think education. How can we provide a better and safer education using digital technologies that complement and enhance on campus experiences?
+",We encourage you to think broadly for this challenge and explore the datasets available in the Resources section of Hackerspace.,"","",2021-08-19 17:39:39 +1000,2021-08-20 00:59:19 +1000,"[""The University of Queensland""]",3
+Queensland,2021,268,Road Safety,What can we do to minimise the number of road crashes on Queensland roads?,"In 2020, over 270 people tragically lost their lives on Queensland roads and thousands more were injured.  
+
+What can we learn from road crash data and other data, for example, police and weather data to reduce the risks for road users and motorists on Queensland roads?    
+
+Use data from the Queensland Open Data Portal, data.qld.gov.au, to formulate your response!
+
+### Additional Information:
+
+**Additional links:**
+• [data.qld.gov.au](https://www.data.qld.gov.au/)
+• https://www.data.qld.gov.au/article/news-and-events/govhack-2021",Must use at least one dataset from data.qld.gov.au. ,"",2021-08-20 12:50:26 +1000,2021-08-20 12:52:03 +1000,"[""Queensland Government""]",12
+New South Wales,2021,245,ROAD TO RECOVERY Public Spaces,"How do we build confidence in the community to use public spaces to support economic, social, cultural and environmental recovery, whether in response to Covid-19, or other disasters such as recent bushfires and floods?
+","### The Challenge:
+
+This problem statement seeks to find solutions that support our **‘ROAD TO RECOVERY’** public spaces approach. We are interested in understanding how we better utilise public spaces as an enabler for community resilience, and economic, social, cultural and environmental recovery.
+
+In late 2019 record-breaking temperatures and months of drought fuelled a series of bushfires that in NSW affected more than five million hectares of the State. In March 2021 floods across NSW saw communities evacuated, with extensive damage to homes, infrastructure, as well as natural environments and public space. And, in early 2020 the COVID-19 pandemic meant we were not able to leave our homes apart from essential reasons for extended periods, with ongoing outbreaks disrupting the way of life for so many. 
+
+What we have also seen around the world is, a heightened awareness of the value of public space for community resilience. Public spaces are helping people to stay healthy and physically distanced in their local communities. They play a critical role in supporting local businesses and economies, and disaster-affected communities, to bounce back; and in fostering a renewed sense of belonging and place attachment. 
+
+### Background:
+
+Quality green, open and public spaces are important to everyone. They are our free and publicly accessible parks, gardens and sports fields, walkable shady streets, libraries, museums and galleries, which form the heart of our communities. Our public spaces make life more welcoming and accessible. They delight and connect people. They support our health and well-being, environmental resilience and prosperous local economies. They’re at the heart of everyday life.
+
+Public spaces are all places **publicly owned or of public use, accessible and enjoyable by all for free**. They include our **open spaces, public facilities (e.g. libraries, galleries, museums) and streets**. The quality of public space is a combination of its **physical form**, the **activities** that occur in the place and the **meaning** people associate with the place. 
+
+The NSW Premier’s Priority Greener Public Spaces (the Priority) is to *increase the proportion of homes in urban areas within 10 minutes’ walk of quality green, open and public space by 10 percent by 2023*. To monitor the impact of the Priority we measure an increase in homes in urban areas that have improved access within 10 minutes’ walk (800m walking catchment) of a new or improved public space.  
+
+To achieve the Priority, we are taking a “more, better, activated” approach, along with emphasising the resilience of public space as playing a key role in the “road to recovery” from recent disasters and the global COVID-19 pandemic. 
+
+• MORE: identifying areas with lower access to public space, the Priority will target strategies that provide access to new quality public spaces in these areas
+• BETTER: identifying areas with high access to public space, the Priority will target strategies that improve quality of public spaces in these areas 
+• ACTIVATED: in all areas, the Priority will target strategies that increase activation 
+• **ROAD TO RECOVERY:** Since 2019 we have also focused our work on the importance of public spaces in the resilience of communities to disasters such as bushfires, floods and the global COVID-19 pandemic. 
+
+The Evaluation Tool for Public Space and Public Life, is the first resource in the new online Great Public Spaces Toolkit. It is a user-friendly resource that allows anyone to assess the quality of public spaces, its positive attributes, as well as areas for improvement. The NSW Public Spaces Charter is another key resource. The Charter, currently in draft form, can be used to guide planning, design, management and activation of public space. The Charter will be a resource for individuals, organisations and agencies responsible for public space.
+
+### Additional Information:
+
+On our webpage you will find more information about the Priority, along with current grant programs, case studies, ideas and opportunities for different types of public spaces - https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces
+
+**Department of Planning, Industry and Environment data:** 
+
+Our advice would be to think broadly and creatively about how DPIE’s data can be used. For these problem statements we don’t always have data that will provide the answers, and we use other forms of information, including reports and surveys when hard data is not available.
+
+•	[Public Spaces location GIS layers](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) on the ePlanning [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) – this dataset helps to understand the provision of public space in a given area. Click “Public Spaces” layers on in the legend on the Viewer to show the location of known open spaces and public facilities across NSW.
+•	[ePlanning Data Portal](https://www.planningportal.nsw.gov.au/opendata/) – a one stop shop for a whole range of open data relevant to public spaces, including NSW Urban Vegetation Cover; Principal Planning Layers such as land zoning; Natural Hazard layers; Green Infrastructure layers including: NSW Heat Vulnerability Index; NSW Urban Heat Island and more. These datasets can be viewed alongside the Public Spaces layers on the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address) within the Portal.
+•	[Government Property Index](https://www.planningportal.nsw.gov.au/development-assessment/government-property-index?linkId=118681870) – is a new resource that means you can now search and view NSW Government-owned land and property online. The index is available spatially as a layer via the [Spatial Viewer](https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address). Information on government owned Crown Land is also available as layers on the Viewer. 
+•	[Public Spaces Streets as Shared Spaces Engagement Report](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0006/348027/Public-Spaces-Streets-as-Shared-Spaces-Engagement-Report.pdf) – includes results of survey aimed to provide the NSW Government with insight into the changing uses of public spaces as a result of the COVID-19 pandemic.
+•	[Draft NSW Public Spaces Charter](https://www.dpie.nsw.gov.au/__data/assets/pdf_file/0007/347740/Draft-NSW-Public-Spaces-Charter.pdf) – developed to support the planning, design, management and activation of public spaces in NSW. It identifies ten principles for quality public space, developed through evidence-based research and discussions with public space experts and community members.
+•	[Great Public Spaces Toolkit](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit) – including the [Evaluation Tool for Public Space and Public Life](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#evaluation-tool-for-public-space-and-public-life) can be used by anyone wanting to better understand a public space’s strengths or areas for improvement. The [Great Public Spaces Guide](https://www.dpie.nsw.gov.au/premiers-priorities/great-public-spaces/festival-of-place/great-public-spaces-toolkit#great-public-spaces-guide), introduces the meaning of place and the elements that contribute to creating a great public facility, open space or street.
+
+**Other Government agency datasets that may be of relevance:**
+
+The other advice we would provide is that, more, better and activated public space is a cross cutting issue for the NSW Government. We have found that we often utilise other agency’s open data sources when we are looking to understand need and value of public space. 
+
+•	Spatial Services [NSW Point of Interest (POI)](https://data.nsw.gov.au/data/dataset/nsw-points-of-interest-poi) web service provides the identification and location of a feature, service or activity that people may want to see, know about or visit.
+•	Office of Local Government [Time Series](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/) datasets, including data on Population per hectare of open space.
+•	NSW Health [HealthStats](http://www.healthstats.nsw.gov.au/Indicatorgroup/TopicIndicatorGroups), including on topics such as Physical Activity Levels.
+•	Transport for NSW [Open data portal](https://opendata.transport.nsw.gov.au/)
+•	NSW Bureau of Crime Statistics and Research [Crime Statistics](https://www.bocsar.nsw.gov.au/Pages/bocsar_crime_stats/bocsar_crime_stats.aspx) data.
+•	ABS 2016 [Census products](https://www.abs.gov.au/census/find-census-data/more-products), including Mesh block counts on population and dwellings, and Socio-Economic Indexes for Areas (SEIFA). 
+•	National Recovery and Resilience Agency disaster-related [datasets](https://data.gov.au/data/organization/nbra), including for the March 2021 floods and 2019-20 bushfires.
+•	Greater Sydney Commission [Greater Sydney Green Grid](https://www.greater.sydney/metropolis-of-three-cities/sustainability/city-its-landscape/green-grid-links-parks-open-spaces) – The Green Grid connects communities to the landscape. It is a long-term vision for a network of high quality green areas. 
+•	Greater Sydney Commission documents including the [Greater Sydney Region Plan](https://www.greater.sydney/metropolis-of-three-cities), [Women’s Safety Charter](https://www.greater.sydney/thought-leadership/womens-safety-charter)
+•	[Public Libraries in New South Wales Directory](https://www.sl.nsw.gov.au/public-library-services/about-public-library-services/find-public-library-nsw)
+
+**Presentation at the New South Wales Connections Event:**
+
+•	[Conversation with Vanessa Gordon (Director of Place from the Department of Planning, Industry and Environment)](https://youtu.be/UpKmHWfcQNc?t=612)
+
+**Image credit:** Centennial Park during COVID-19, Damien Carroll, Department of Planning, Industry and Environment
+","",https://www.youtube.com/embed/7BeR6ZIlg18,2021-08-19 00:13:07 +1000,2021-08-20 15:33:11 +1000,"[""NSW Department of Planning, Industry and Environment""]",13
+Victoria,2021,243,Safeguarding citizens privacy and ownership of their personal data,"How might we build telemetry and data insights without compromising citizen privacy?
+","The pandemic has seen a massive shift to government digital services. Increasing amounts of personal data are required from citizens to support the pandemic response like QR code contact tracing apps, post vaccine surveys and business support grants.
+
+How might the Victorian Government improve and safeguard citizens privacy and ownership of their personal data?
+",Participants must use one or more datasets from Data.Vic.,"",2021-08-19 00:08:07 +1000,2021-08-20 01:26:09 +1000,"[""Department of Premier and Cabinet, Victoria""]",7
+New Zealand,2021,274,Solar Panel AI: How can we encourage citizens and businesses to move to cleaner energy?,"The goal is to identify and segment all the building roofs of a city and identify which way they are facing (a roof could be segmented by identifying the ridgeline). This information could be later on stored into a GIS and be queried to filter all the roofs facing a certain orientation to the sun. It is important that we optimize sun exposure for north facing roofs. This information will help energy companies, councils and others to identify where solar panels could be installed and evaluate the potential in the city.
+","How can we encourage citizens and businesses to move to cleaner energy?
+
+Councils want to work with residents and business owners to look at areas to activate where solar can be of benefit. It is especially important to cross-reference this against social-economic data, so the best roofs fit the people most in need, for subsidising, etc. The council wants the city to have energy independence and also consume clean energy, eg. help people move off wood burners.
+
+Council and the public thus have this open data, together working to a solution.
+
+How can we encourage citizens and businesses to move to solar?
+
+
+### Additional Information:
+
+Below are examples of how you might wish to approach this challenge. Please use this as an example only and not as guidance.
+
+**For example:**
+
+ONE - Provide a city manager’s city-wide dashboard for the area potential of all north facing roofs:
+
+• Cross-reference the dashboard with lower socioeconomic areas of the city
+• Make the direction an adjustable parameter +/- North (the sun is not perfectly aligned with North)
+
+TWO - Provide a citizen interface to take their home address and analyze their roof to indicate their north facing area and if they are available for subsidy (in lower socioeconomic area)
+
+• Provide a mock contact to ECan submission form with their details to look at different options for a subsidised solar scheme
+
+THREE - Exclude any roofs already that have solar installed
+
+FOUR - Identify any roofs with a chimney installed
+
+**Tools**
+
+The technical stuff.
+
+You have the choice of using the Trimble AI / Machine Learning tools to help solve this challenge! Everything you need to analyse a roof image, what pixel is what for the neutral network and training engine. Here is a [link to the Trimble AI - Getting Started Guide](https://docs.google.com/document/d/1G9l-adikYpykokh6q3bcrlBPz7EGgFgvl3NMCdVqSjY/edit). We have Trimble technical mentors online over the weekend to help answer your questions.
+
+",At least one team member must be able to attend and present your challenge at the Te Pae Technology Expo in Oct 2021 if selected.,"",2021-08-20 14:44:10 +1000,2021-08-21 11:10:27 +1000,"[""UC Business School Te Kura Umanga"", ""Smart Christchurch "", ""Trimble""]",0
+Queensland,2021,253,Sustainable Moreton Bay (QLD),"How can we create a diverse and flourishing planet for generations to come?
+","Using Open Data from a variety of sources, help us create a sustainable future and protect our local flora and fauna. Ideas and examples could include tracking and monitoring the health of our local Koalas (some great data on this topic!), circular economy solutions, urban heat island effect, through to climate change mitigation strategies.  All ideas welcome, and remember to focus on our region!
+
+This is one of three Moreton Bay specific challenges put together by a consortium of business, education and government organisations, all passionate about our local region.  We will have a group of USC Moreton Bay students participating on campus at Petrie Mill alongside local innovators, and we encourage you to join with them in putting a spotlight on our region.
+
+### Additional Information:
+
+**Useful links:**
+
+• Council has been tracking Koalas at Petrie Mill for a number of years, and has data sets available that provide location and count information
+• Council has a number of climate sensors around the region
+• BOM has a weather station at Redcliffe which can be accessed for free via [BOM.gov.au](http://reg.bom.gov.au/fwo/IDQ60901/IDQ60901.95591.json)
+• https://datahub.moretonbay.qld.gov.au","Open to everyone, preference will be given to those providing solutions using at least one local Moreton Bay data set.","",2021-08-19 14:01:40 +1000,2021-08-20 01:04:33 +1000,"[""Moreton Bay Regional Council""]",8
+Tasmania,2021,259,The best use of Tasmanian Heritage Data,"How can we use data to showcase Tasmania’s history, people and stories?
+","Using Tasmanian heritage data, build a solution that showcases Tasmania’s history, people and stories.
+
+### Additional Information:
+
+**Additional links:**
+• https://libraries.tas.gov.au/archive-heritage/Pages/default.aspx",Must use Tasmanian data.,"",2021-08-19 18:09:52 +1000,2021-08-20 01:14:37 +1000,"[""Tasmanian Government Department of Premier and Cabinet""]",3
+Tasmania,2021,260,The best use of Tasmanian Spatial Data,"How can you use Tasmanian spatial data to improve life for Tasmanian residents or businesses?
+",In this challenge we encourage you to analyse and put to best use Tasmanian spatial data.,Must use Tasmanian data.,"",2021-08-19 18:10:54 +1000,2021-08-20 01:12:34 +1000,"[""Tasmanian Government Department of Premier and Cabinet""]",3
+Victoria,2021,270,The cost of water,How can we use data to achieve an equitable way of distributing the costs of providing clean water to residents?,"Clean water is an essential service, and yet for many, water bills are a big burden.
+
+In our cities, the current model is that charges for water usage and the provision of water is charged equally to residential properties. It doesn’t take into account factors such as the number of people living in a property, what the water is being used for, or any other factors around how, when, and where that water is being used.
+
+Is there a fairer way to distribute the costs of providing clean water to residents? Can we use data to better share the costs of clean water so that everyone has access to this essential right?
+",Must use at least one open dataset.,"",2021-08-20 13:22:11 +1000,2021-08-20 15:47:03 +1000,"[""Melbourne Water""]",6
+South Australia,2021,273,The digital future of agriculture,"How might we use data and digital technology to make agriculture more sustainable, more ethical, and more efficient?","The agriculture sector has long embraced technology such as self-driving tractors and satellite imaging of farms.
+
+There is an opportunity to use more data and technology to help solve some of the issues faced by farmers in Australia. For example:
+
+•	Rising costs of running a farm
+•	Market volatility
+•	Climate volatility
+•	Increasing consumer interest in where and how food is produced
+•	Global competition
+•	Pest, disease and weed damage
+•	Difficulty attracting labour to farms
+•	Natural disasters
+•	Difficulty accessing affordable finance
+
+How can you use data and technology to solve one or more of the above (or other) challenges within the agricultural space?
+",Must use at least one open dataset.,"",2021-08-20 14:34:57 +1000,2021-08-20 14:35:50 +1000,"[""GovHack Australia Limited""]",16
+Australian Capital Territory,2021,239,The Electric Vehicle Future,"How do we help people go green?
+","Now that Canberra is powered by 100% renewable electricity, private transport remains a large source of carbon emissions for the territory. Zero emissions vehicles provide a solution to this problem, but how do we encourage and empower people to make the switch? 
+
+The ACT has adopted the target of net zero emissions by 2045, but to achieve this we must start to transition private transport to zero emissions vehicles (ZEVs) as soon as possible. 
+
+Is the current uptake of ZEVs fast enough, and what are the barriers to uptake of ZEVs? Does the ACT have the required infrastructure to decarbonise private transport, and if not what needs to be added? How will wide adoption electric vehicles affect the demands on the electricity grid?
+","Must use at least one ACT Government data set, either from the Open Data Portal (data.act.gov.au) or the Geospatial Catalogue (actmapi-actgov.opendata.arcgis.com).","",2021-08-18 23:54:44 +1000,2021-08-20 00:47:48 +1000,"[""ACT Government""]",3
+New Zealand,2021,281,The future of industry in regional New Zealand ,"In an increasingly digital world, technological changes, innovation and the future of work are shaping the future of New Zealand’s industry sectors, particularly in our regions. Furthermore the transition to a clean, green and carbon-neutral New Zealand will transform how we do business. Using historical data and trends, can we determine what sectors may be the big players in regional Aotearoa in the next 10 years and where investment should be made today?","","","",2021-08-20 15:36:05 +1000,2021-08-20 16:01:29 +1000,"[""Whanganui and Partners""]",2
+Australian Capital Territory,2021,238,The future of transport,"How does transport need to change in the digital age?
+","The COVID-19 pandemic has seen a huge shift to remote work and virtual collaboration, changing how and when people travel across the city. As we move towards a new normal of flexible working options, how do we make sure that public transport in Canberra meets the demands of the future? How have journey patterns changed already and how might they change in the years to come? 
+
+As working remotely becomes more common, the way people move around the city will change. Transport solutions which are designed for commuters might have to change dramatically. 
+
+How much change in public transport usage have we seen in the last 18 months, and how much should we expect in the next 10 years? How can the ACT plan for this change and what transport solutions will be required? 
+","Must use at least one ACT Government data set, either from the Open Data Portal (data.act.gov.au) or the Geospatial Catalogue (actmapi-actgov.opendata.arcgis.com).","",2021-08-18 23:53:06 +1000,2021-08-20 00:48:38 +1000,"[""ACT Government""]",4
+Victoria,2021,242,Transport - Transitioning to COVID-Normal,"How do we better understand the transport options available to support people getting back to work and school as we transition to COVID-Normal, as well as learn more about impacts and opportunities for the broader transport system and associated services (logistics, freight, parking, infrastructure etc)?
+","COVID-19 and the various measures put in place to combat its spread have had an impact on the mobility of people across the spectrum of transportation modes, including short-term commuter mode-shift from public transport towards cars. These impacts have had a flow on effect for economic activities and supply chains across the country. If current changes to travel patterns become more entrenched there may be longer-term implications for congestion, productivity, emissions, and the efficient use of transport assets.
+
+Given the various unknowns about the short-term and long-term effects, what are the opportunities to support the sustainability of all transport sectors.
+",Participants must use one or more datasets from Data.Vic.,"",2021-08-19 00:05:08 +1000,2021-08-20 01:27:12 +1000,"[""Department of Premier and Cabinet, Victoria""]",7
+New Zealand,2021,279,Using AgTech to tackle climate change ,"New Zealand's economy relies on our environment and the primary production it supports, such as farming, forestry, and fishing. However climate change will affect what and how much New Zealand can grow or harvest, both on land and in the sea. How could Agricultural technology (AgTech) and open data work together to help Aotearoa be future-ready for the changes to come?","","","",2021-08-20 15:14:06 +1000,2021-08-20 16:00:42 +1000,"[""Proaxiom""]",1
+New South Wales,2021,250,Water information without borders,"How do we better bring together information about our water systems across states borders?
+","Our Eastern Australian water systems run across a number of states. We seek new thinking and creative ideas to innovative ways of bringing the vast amount of available and information together to give Water customers in NSW better information about the entire river system.  Data and information is available from different state jurisdictions, agencies and organisation to understand water availability, storage, forecasts, plans and more. How would you bring this together?
+
+
+### Additional Information:
+
+**Useful link:** https://www.chiefscientist.nsw.gov.au/independent-reports/water-data-review
+
+**Image credit:** Department of Planning, Industry and Environment 
+","","",2021-08-19 01:39:44 +1000,2021-08-20 17:34:03 +1000,"[""NSW Department of Planning, Industry and Environment""]",8
+Australian Capital Territory,2021,240,Wellbeing in the ACT,"How do we safeguard the wellbeing of Canberrans?
+","Canberra has seen lots of challenges recently – from bushfires to hail to the COVID-19 pandemic, the wellbeing of Canberrans will be affected. The ACT Government has now committed to measuring Wellbeing with a series of quantitative indicators – but how do we make sure that we look after our community in these hard times? Can we work out what are the biggest predictors of high wellbeing? 
+
+The ACT Government released the Wellbeing Framework and Indicators in 2021 to provide a way to measure progress in Canberra more broadly than traditional economic measures. These data already show that major events like the bushfires can have a negative effect on the wellbeing of Canberrans, and we know that lockdowns due to the pandemic will also affect the community. 
+
+How do we use data to best understand the wellbeing of the Canberra community, and how do we know what are the best ways to protect it during emergencies? Are there particular protective factors or risk factors that are especially important to manage? And how do we predict how wellbeing of Canberrans might change in the future? ","Must use at least one ACT Government data set, either from the Open Data Portal (data.act.gov.au) or the Geospatial Catalogue (actmapi-actgov.opendata.arcgis.com).","",2021-08-18 23:55:26 +1000,2021-08-20 00:46:42 +1000,"[""ACT Government""]",3
+Australia,2021,235,Youth education and employment,"How might we use publicly available data to identify education and employment opportunities for our youth?
+","There are many opportunities available for youths in Australia if you know where to look and what to look for. How can we utilise publicly available government data to identify and target education (not necessarily formal education) and employment opportunities for youth in Australia?
+","","",2021-08-18 23:35:22 +1000,2021-08-20 00:35:54 +1000,"[""Australian Taxation Office""]",26
